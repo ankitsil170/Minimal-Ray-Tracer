@@ -1,0 +1,10 @@
+# ninja log v6
+14	777	7944059083034484	Raytracer_autogen/timestamp	c44a8812b2aaca1a
+14	777	7944059083034484	Raytracer_autogen/mocs_compilation.cpp	c44a8812b2aaca1a
+14	777	7944059083034484	C:/Users/silan/CppProjects/Raytracer/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Raytracer_autogen/timestamp	c44a8812b2aaca1a
+14	777	7944059083034484	C:/Users/silan/CppProjects/Raytracer/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Raytracer_autogen/mocs_compilation.cpp	c44a8812b2aaca1a
+817	2178	7944059085030362	CMakeFiles/Raytracer.dir/math/vec3.cpp.obj	777e8755fdc26796
+796	4409	7944059084824130	CMakeFiles/Raytracer.dir/main.cpp.obj	ac1595b2c812f2de
+805	4514	7944059084918716	CMakeFiles/Raytracer.dir/mainwindow.cpp.obj	159a3f4c4ffc40f3
+790	4549	7944059084765397	CMakeFiles/Raytracer.dir/Raytracer_autogen/mocs_compilation.cpp.obj	7520a0e71dc46b1f
+4550	5167	7944059122353127	Raytracer.exe	7fbdadd37b67fd3f
